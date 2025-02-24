@@ -21,7 +21,6 @@ Este es un juego de memoria en el que el usuario debe repetir una secuencia de c
 1. Clona este repositorio:  
    ```bash
    git clone 'path'
-   
 2.	Abre el archivo index.html en el navegador.
 3.	Presiona “Iniciar” para comenzar el juego.
 
