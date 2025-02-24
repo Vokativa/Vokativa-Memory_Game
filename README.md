@@ -24,7 +24,7 @@ Este es un juego de memoria en el que el usuario debe repetir una secuencia de c
 2.	Abre el archivo index.html en el navegador.
 3.	Presiona “Iniciar” para comenzar el juego.
 
-Mejoras recomendadas
-•	Agregar diferentes niveles de dificultad.<br>
-•	Implementar una tabla de puntuaciones.<br>
-•	Permitir que varios jugadores compitan en turnos.<br>
+## Mejoras recomendadas
+	•	Agregar diferentes niveles de dificultad.
+	•	Implementar una tabla de puntuaciones.
+	•	Permitir que varios jugadores compitan en turnos.
