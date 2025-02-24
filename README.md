@@ -26,6 +26,6 @@ Este es un juego de memoria en el que el usuario debe repetir una secuencia de c
 3.	Presiona “Iniciar” para comenzar el juego.
 
 Mejoras recomendadas
-	•	Agregar diferentes niveles de dificultad.
-	•	Implementar una tabla de puntuaciones.
-	•	Permitir que varios jugadores compitan en turnos.
+•	Agregar diferentes niveles de dificultad.
+•	Implementar una tabla de puntuaciones.
+•	Permitir que varios jugadores compitan en turnos.
